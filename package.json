@@ -1,0 +1,29 @@
+{
+  "name": "elijah",
+  "version": "1.0.0",
+  "description": "___This homework is due by 8am, on 11/17/2015___",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackprince1312/Assignment-21.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blackprince1312/Assignment-21/issues"
+  },
+  "homepage": "https://github.com/Blackprince1312/Assignment-21#readme",
+  "dependencies": {
+    "css-loader": "^0.23.0",
+    "jquery": "^2.1.4",
+    "react": "^0.14.2",
+    "react-dom": "^0.14.2",
+    "style-loader": "^0.13.0",
+    "underscore": "^1.8.3",
+    "webpack": "^1.12.6"
+  },
+  "devDependencies": {}
+}
